@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey there! I'm a Information Systems student with a passion for software development and problem-solving.<br><br>💡 I'm currently diving deep into JavaScript and its ecosystem for both front-end and back-end development. I'm also exploring the world of AI automation</h3>
+<h3 align="center"> I'm currently diving deep into JavaScript and its ecosystem for both front-end and back-end development. I'm also exploring the world of AI automation</h3>
 
 ###
 
